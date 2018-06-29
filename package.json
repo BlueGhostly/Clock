@@ -1,0 +1,14 @@
+{
+  "name": "pack",
+  "version": "1.0.0",
+  "main": "file.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
